@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I like playing games**
 
+- 🤐 Link to my poritfolio gustavodamm.github.io
+
 <p align="left">
 </p>
 
