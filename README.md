@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **gustavo.damm15@hotmail.com**
 
+- 📚 Currently studying at **Trybe**
+
 - ⚡ Fun fact **I like playing games**
 
 <h3 align="left">Connect with me:</h3>
